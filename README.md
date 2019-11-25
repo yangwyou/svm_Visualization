@@ -7,3 +7,4 @@ GUI设计的文件来源于：https://github.com/RyuZhihao123/Visual-SVM-with-sm
 
 SMO的paper: Sequential Minimal Optimization: A Fast Algorithm for Training Support Vector Machines.1998,John C. Platt
 
+（实际实现的精度仍然有待提高）
